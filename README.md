@@ -1,2 +1,2 @@
 # JarvisVoiceAssistant
-jarvis Voice Assistant using python
+Jarvis Voice Assistant using python
